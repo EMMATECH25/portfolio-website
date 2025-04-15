@@ -21,14 +21,6 @@ CSS3
 
 JavaScript
 
-📂 Project Structure
-/portfolio-website
-│
-├── index.html
-├── /assets
-│   ├── /css
-│   ├── /img
-│   └── /js
 🚀 Live Demo
 👉 [Click here to try it](https://emmanuelnwogeportfolio.netlify.app/)
 
